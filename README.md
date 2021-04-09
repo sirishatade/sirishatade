@@ -1,4 +1,4 @@
-👋 Hi, I’m Sirisha Tadepalli
+👋 Hi, I’m Sirisha Tadepalli. 
 Here are some of my python scripts, enjoy!
 
 
